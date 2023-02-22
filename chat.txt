@@ -1,0 +1,62 @@
+What tools de we need to create a web application
+
+Creating a web application typically requires several tools, including:
+
+    Text Editor or Integrated Development Environment (IDE): This is where you write your code. Popular choices include Sublime Text, Atom, Visual Studio Code, and IntelliJ IDEA.
+
+    Front-end languages and frameworks: HTML, CSS, and JavaScript are the core technologies used for building the front-end of a web application. Popular front-end frameworks include React, Angular, and Vue.
+
+    Back-end languages and frameworks: The back-end of a web application is responsible for server-side logic and data storage. Common choices for back-end languages include Python, Ruby, and Node.js. Popular back-end frameworks include Django, Ruby on Rails, and Express.
+
+    Database management system (DBMS): Web applications often require persistent data storage, which is typically managed using a DBMS such as MySQL, PostgreSQL, or MongoDB.
+
+    Version control system: Version control systems such as Git are used to manage source code changes and collaborate with others on a project.
+
+    Web server: A web server is software that handles HTTP requests and responses between a client and a web application. Popular web servers include Apache, Nginx, and Microsoft IIS.
+
+    Deployment tools: Deploying a web application requires transferring code and assets to a production environment. Tools like Docker and Kubernetes can help automate the deployment process.
+
+Depending on the specific requirements of your web application, you may need additional tools such as testing frameworks, security tools, or analytics tools.
+Josef Pospíšil
+What is the difference between imperative, object oriented and functional programming languages
+
+Imperative, object-oriented, and functional programming are three different paradigms used in programming languages. Here are some of the key differences:
+
+    Imperative Programming: This paradigm is focused on describing the steps that a program should take to achieve a desired outcome. It typically involves changing the state of the program through the use of statements like loops, conditionals, and variable assignments. Examples of imperative programming languages include C, Pascal, and Fortran.
+
+    Object-Oriented Programming (OOP): In OOP, programs are designed around the concept of objects, which encapsulate both data and behavior. The programming paradigm emphasizes reusability, encapsulation, and modularity. Examples of object-oriented programming languages include Java, Python, and C++.
+
+    Functional Programming: In this paradigm, programs are designed to be composed of functions, which are treated as first-class objects. Functional programming languages tend to emphasize immutability, higher-order functions, and declarative programming. Examples of functional programming languages include Haskell, Lisp, and Clojure.
+
+In summary, the key differences between these paradigms are their focus on the sequence of steps, the use of objects as building blocks, and the use of functions as the primary building blocks. Which programming paradigm to choose depends on the project requirements and the personal preferences of the developers.
+Josef Pospíšil
+What paradigm is the best for the web development
+
+There is no one "best" programming paradigm for web development. The choice of programming paradigm largely depends on the specific requirements of the web application you are building, the constraints of the project, and the personal preferences of the development team.
+
+That being said, each programming paradigm has its own advantages and disadvantages that can make it more or less suitable for certain types of web development. For example:
+
+    Imperative Programming: This paradigm can be a good choice for web applications that require a lot of low-level control over the program's behavior. However, it can be more difficult to maintain and can lead to more complex code.
+
+    Object-Oriented Programming: OOP can be a good choice for web applications that require complex and reusable components. It can also help manage complexity and make it easier to maintain code over time. However, it can also be more verbose and harder to learn for beginners.
+
+    Functional Programming: Functional programming can be a good choice for web applications that require a lot of data processing and manipulation, as functional programming emphasizes immutability and declarative programming. However, it may not be the best choice for applications that require a lot of state management.
+
+Ultimately, the choice of programming paradigm will depend on the specific requirements and constraints of the web application being developed, as well as the preferences and expertise of the development team.
+Josef Pospíšil
+Rewrite it as if shakespeare said it
+
+Verily, there is no one "best" programming paradigm for web development. The choice of programming paradigm doth depend on the specific requirements of the web application thou art building, the constraints of the project, and the personal preferences of the development team.
+
+That being said, each programming paradigm has its own advantages and disadvantages that can make it more or less suitable for certain types of web development. For example:
+
+    Imperative Programming: This paradigm can be a good choice for web applications that require a lot of low
+
+Josef Pospíšil
+Rewrite it as if bart simpson said it
+
+Pfft, like there's just one "best" programming way to do web development, man. It all depends on what kind of web app you're building, what kind of rules you gotta follow, and what you and your team like.
+
+Each programming way has its pros and cons, dude. Like, if you wanna be in control of everything, go for Imperative Programming. But if you wanna build cool, reusable stuff, then check out Object-Oriented Programming. And if you need to crunch a lot of data, give Functional Programming a go.
+
+But seriously, there's no one-size-fits-all answer, man. It's up to you to figure out which way to go. Cowabunga!
